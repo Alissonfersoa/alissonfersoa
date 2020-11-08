@@ -33,9 +33,11 @@ Tools:
 - 📊 Qlikview Sense.
 
 ## 💬 Wanna Chat?
+
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Fernando-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonfernandosoares/)](https://www.linkedin.com/in/alissonfernandosoares/) 
-[![Gmail Badge](https://img.shields.io/badge/-batista.als.@gmail.com-007dbb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batista.als.f@gmail.com)](mailto:batista.als.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Fernando-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonfernandosoares/)](https://www.linkedin.com/in/alissonfernandosoares/)
+[![Gmail Badge](https://img.shields.io/badge/-batista.als.@gmail.com-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:batista.als.f@gmail.com)](mailto:batista.als.f@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alissonfersoa/)](https://www.instagram.com/alissonfersoa/)
 
 <br />
