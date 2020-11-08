@@ -5,10 +5,32 @@
 Impassioned by technology and data analysis 👨🏽‍💻
 
 - ✈️ I currently working for an aerospace company;
-- 
 - 🌱 I'm currently learning Python and Machine Learning;
 - 💡 Enthusiast IOT and DIY projects;
 - ⚡️ Fan Facts: I like playing Call of Duty when I've a bit of free time 🎮. 
+
+## 🚀 Languages and Tools: ##
+
+Programming Languages:
+
+- ✍️ JavaScript;
+- ✍️ Visual Basic;
+- ✍️ VB Script;
+- ✍️ VBA;
+- ✍️ HTML5 and CSS3;
+- ✍️ Jquery;
+- ✍️ SQL;
+- ✍️ DAX MS;
+
+Tools:
+
+- ⚙️ GitHub;
+- ⚙️ VS Code;
+- ⚙️ Visual Studio;
+- ⚙️ Talend ETL;
+- ⚙️ Pentaho ETL;
+- 📊 Power BI;
+- 📊 Qlikview Sense.
 
 ## 💬 Wanna Chat?
 <br />
