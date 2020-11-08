@@ -3,11 +3,11 @@
 - 🔭 
 -  Estou trabalhando atualmente no ramo aeroespacial
 
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align = "left" alt = "Adarshreddyash LinkdeIN" width = "30px" src = "https://img.icons8.com/fluent/48/000000/linkedin.png" />
+<a href="https://www.linkedin.com/in/alissonfernandosoares/">
+  <img align = "left" alt = "Alisson LinkdeIN" width = "30px" src = "https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align = "left" alt = "Adarshreddyash Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/alissonfersoa/">
+  <img align = "left" alt = "Alisson Instagram" width = "30px" src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 <br />
 <br />
