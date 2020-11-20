@@ -14,9 +14,9 @@ Impassioned by technology and data analysis 👨🏽‍💻
 Programming Languages:
 
 - ✍️ JavaScript;
+- ✍️ Python;
 - ✍️ Visual Basic;
 - ✍️ VB Script;
-- ✍️ VBA;
 - ✍️ HTML5 and CSS3;
 - ✍️ Jquery;
 - ✍️ SQL;
