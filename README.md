@@ -30,7 +30,8 @@ Tools:
 - ⚙️ Talend ETL;
 - ⚙️ Pentaho ETL;
 - 📊 Power BI;
-- 📊 Qlikview Sense.
+- 📊 Qlikview Sense;
+- 📊 Metabase.
 
 ## 💬 Wanna Chat?
 
